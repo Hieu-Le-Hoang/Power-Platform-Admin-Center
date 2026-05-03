@@ -1,0 +1,5 @@
+{
+  "name": "Power Platform Admin Center",
+  "description": "A comprehensive dashboard to monitor, manage, and observe all aspects of a Power Platform environment, from environments and capacity to applications, security, and operations.",
+  "requestFramePermissions": []
+}
